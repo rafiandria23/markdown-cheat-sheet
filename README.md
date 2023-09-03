@@ -1,3 +1,5 @@
-# Adam's Personal Markdown Cheat Sheet
+# Markdown Cheat Sheet
 
-This repo is intended for my personal Markdown cheat sheet.
+My personal cheat sheet for learning Markdown.
+
+[Check this out!](https://github.com/rafiandria23/markdown-cheat-sheet/blob/main/cheat-sheet.md)
